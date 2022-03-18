@@ -1,2 +1,2 @@
-# CC3200 IoT Fire Protection-System
+# CC3200 IoT Fire Protection System
 The purpose of this project was to use the REST API to connect to a web service and sense the temperature of the board and turn on a fan when the board gets too hot, in order to cool it down, and to send a notification via email to let the user know that the board has reached a dangerous level. Afterwards, a DC motor fan connected to the CC3200 cools down the area and sends a warning notification to Amazon AWS email notification.
