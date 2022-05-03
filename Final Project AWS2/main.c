@@ -87,47 +87,7 @@
 #include "common.h"
 #include "uart_if.h"
 
-// Standard includes
-#include <stdio.h>
 
-// Driverlib includes
-#include "hw_types.h"
-#include "hw_ints.h"
-#include "hw_memmap.h"
-#include "hw_common_reg.h"
-#include "interrupt.h"
-#include "hw_apps_rcm.h"
-#include "prcm.h"
-#include "rom.h"
-#include "rom_map.h"
-#include "prcm.h"
-#include "gpio.h"
-#include "utils.h"
-
-// Common interface includes
-#include "gpio_if.h"
-#include "uart_if.h"
-// Driverlib includes
-#include "hw_types.h"
-#include "hw_ints.h"
-#include "hw_memmap.h"
-#include "interrupt.h"
-#include "prcm.h"
-#include "gpio.h"
-#include "utils.h"
-#include "timer.h"
-#include "rom.h"
-#include "rom_map.h"
-#include "pin.h"
-#include "spi.h"
-
-
-// Common interface includes
-#include "uart_if.h"
-#include "pinmux.h"
-#include "i2c_if.h"
-#include "common.h"
-#include "tmp006drv.h"
 //*****************************************************************************
 //
 // Application Master/Slave mode selector macro
